@@ -17,6 +17,7 @@
     "commit": "git add . && git-cz"
   },
   "dependencies": {
+    "@nutui/icons-vue": "^0.0.25",
     "@nutui/nutui": "^4.0.0",
     "@varlet/ui": "^2.7.1",
     "@vueuse/core": "9.12.0",
